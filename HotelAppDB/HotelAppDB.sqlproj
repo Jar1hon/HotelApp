@@ -74,6 +74,7 @@
     <Build Include="dbo\Stored Procedures\spBookings_Search.sql" />
     <Build Include="dbo\Stored Procedures\spBookings_CheckIn.sql" />
     <Build Include="dbo\Stored Procedures\spRoomTypes_GetById.sql" />
+    <Build Include="dbo\Tables\test.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\Script.PostDeployment.sql" />
